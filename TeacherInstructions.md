@@ -24,6 +24,13 @@ To learn the folliwng:
 
 •	If statements
 
+
+
+# Suggested use
+
+I have suggested that this work packet could be used starting with year 4 students however, it could easily be used with higher years, especially the last sections
+
+
 # Glossary
 
 To try and minimise the amount of reading children need to do, I have included key terms for teachers to explain
