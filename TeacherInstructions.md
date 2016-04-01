@@ -30,6 +30,8 @@ To learn the folliwng:
 
 I have suggested that this work packet could be used starting with year 4 students however, it could easily be used with higher years, especially the last sections
 
+Also the suggested order of workpackets is : Variables, loops, if-statements, functions and the extension pack (Bringing it all together)
+
 
 # Glossary
 
