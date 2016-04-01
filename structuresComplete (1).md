@@ -124,6 +124,7 @@ Now move to an empty space in the game and run the scro[t again. It should look 
 ***Questions***
 
 **Between questions run the flatgrass script so you have more space**
+
 1) Run the script and create walls with length 4, width 4 and height 3 made from Cobblestone. **Create this as a new script and save it as 'walls_question1'**
 
 2) Run the script again to create walls with length 5, width 4 and height 4 made from Glass. **Create this as a new script and save it as 'walls_question2'**
