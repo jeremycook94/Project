@@ -241,16 +241,26 @@ Now run this and it should look like the image below
 ***Questions***
 
 **Between questions, run your 'flatgrass' script so you have more space**.
+
+
 1) Build the following structure:
+
+
 ![house1](http://i.imgur.com/7kuhTgL.gif?1)
+
+
 **Create in a new script and save as 'structures_question1'**
 
 2) Build the following structure:
+
 ![house2](http://i.imgur.com/CSDaOYx.gif?)
+
 **Create in a new script and save as 'structures_question2'**
 
 3) Build the following structure:
+
 ![house3](http://i.imgur.com/L2OKrlP.gif?1)
+
 **Create in a new script and save as 'structures_question3'**
 
 
