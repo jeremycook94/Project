@@ -46,6 +46,7 @@ while x<5:
  mc.setBlock(positionZ,positionY,positionZ+x,stone)
  x++
  ```
+ 
  This while loop will run as long as x is less than 5. Once it is 5 or more the loop will stop. At the end of each loop x is increased by 1.
  
  Save and close your script
