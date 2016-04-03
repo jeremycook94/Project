@@ -42,7 +42,7 @@ from mcpi.minecraft import Minecraft
 positionX,positionY,positionZ=mc.player.getPos()
 stone=1
 x=0
-while x<5:
+while (x<5):
  mc.setBlock(positionZ,positionY,positionZ+x,stone)
  x++
  
